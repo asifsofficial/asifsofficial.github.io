@@ -213,12 +213,12 @@
 		min-height: 90vh;
 		overflow-y: auto;
 		background-color: var(--tj-theme-secondary);
-		transform-origin: right;
-		transform: scaleX(0);
+		transform-origin: top;
+		transform: scaleY(0);
 		transition: all 0.4s ease-in-out 0s;
 	}
 	.tj-header-area .header-menu.opened {
-		transform: scaleX(1);
+		transform: scaleY(1);
 	}
 	.tj-header-area .header-menu ul {
 		flex-direction: column;
