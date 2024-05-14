@@ -205,6 +205,7 @@
 	.tj-header-area .header-button {
 		margin-left: auto;
 	}
+	
 	.tj-header-area .header-menu {
 		position: absolute;
 		left: 0;
@@ -217,6 +218,7 @@
 		transform: scaleY(0);
 		transition: all 0.4s ease-in-out 0s;
 	}
+	
 	.tj-header-area .header-menu.opened {
 		transform: scaleY(1);
 	}
@@ -842,7 +844,7 @@
 
 	/* footer */
 	.tj-footer-area {
-		padding: 60px 0 20px;
+		padding: 20px 0 20px;
 	}
 	.footer-menu ul {
 		margin: 0 0 25px;
