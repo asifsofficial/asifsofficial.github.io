@@ -98,6 +98,7 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	box-sizing: border-box;
 	scrollbar-width: thin;
 	scrollbar-color: var(--tj-theme-primary) var(--tj-theme-secondary);
+	border-radius: 15px;
 }
 
 ::-webkit-scrollbar {
