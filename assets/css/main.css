@@ -1070,8 +1070,8 @@ body.loaded {
 * ===============================
 */
 .services-section {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 	background-color: var(--tj-black-2);
 }
 .services-section .section-header {
@@ -1246,8 +1246,8 @@ body.loaded {
 * ===============================
 */
 .portfolio-section {
-	padding-top: 120px;
-	padding-bottom: 80px;
+	padding-top: 60px;
+	padding-bottom: 40px;
 	background: var(--tj-theme-accent-1);
 }
 .portfolio-section .section-header {
@@ -1850,8 +1850,8 @@ body.loaded {
 * ===============================
 */
 .skills-section {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 	background: var(--tj-theme-accent-1);
 }
 
@@ -1930,8 +1930,8 @@ body.loaded {
 * ===============================
 */
 .testimonial-section {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 	background: var(--tj-black-2);
 	position: relative;
 }
@@ -2027,8 +2027,8 @@ body.loaded {
 * ===============================
 */
 .blog-section {
-	padding-top: 120px;
-	padding-bottom: 90px;
+	padding-top: 60px;
+	padding-bottom: 45px;
 	background: var(--tj-theme-accent-1);
 }
 .blog-section .section-header {
@@ -2824,8 +2824,8 @@ blockquote cite::before {
 * ===============================
 */
 .contact-section {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 	background: var(--tj-black-2);
 	position: relative;
 }
