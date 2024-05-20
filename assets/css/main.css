@@ -1145,6 +1145,7 @@ body.loaded {
 	-webkit-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
 	transition: all 0.5s ease;
+	border-radius: 15px;
 }
 .services-widget i {
 	font-size: 20px;
