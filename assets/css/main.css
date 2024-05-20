@@ -1785,8 +1785,8 @@ body.loaded {
 * ===============================
 */
 .resume-section {
-	padding-top: 120px;
-	padding-bottom: 90px;
+	padding-top: 60px;
+	padding-bottom: 45px;
 	background: var(--tj-black-2);
 }
 .resume-section .resume-item {
