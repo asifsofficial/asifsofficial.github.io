@@ -640,6 +640,7 @@
 			260deg,
 			var(--tj-theme-secondary) 0%,
 			var(--tj-theme-primary) 100%
+			border-radius: 15px;
 		);
 	}
 
