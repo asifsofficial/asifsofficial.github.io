@@ -300,10 +300,10 @@ a h6:hover {
 	margin-right: 0;
 }
 .social-icons li a {
-	color: var(--white);
+	color: var(--tj-theme-primary);
 	width: 35px;
 	height: 35px;
-	border: 1px solid var(--white);
+	border: 1px solid var(--tj-theme-primary);
 	border-radius: 50%;
 	display: flex;
 	align-items: center;
